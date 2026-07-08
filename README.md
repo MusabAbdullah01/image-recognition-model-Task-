@@ -20,5 +20,7 @@ Run the prediction script.
 
 ## 📊 Sample Output
 When feeding a circular shape image, the expected output structure is:
+
 Class: circular
+
 Confidence Score: 0.9967167
