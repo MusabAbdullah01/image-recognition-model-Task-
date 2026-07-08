@@ -9,14 +9,16 @@ This project is a Deep Learning task designed to classify images into two main c
 
 ## 📋 Requirements
 Before running the script, make sure you install the required dependencies:
-```bash
-pip install tensorflow tf_keras pillow numpy
+`pip install tensorflow tf_keras pillow numpy `
+
 ## 🛠️ How to Use
-1. Clone or download this repository.
-2. Make sure `keras_model.h5`, `labels.txt`, and your test image (`test_image.png`) are in the same folder.
-3. Run the prediction script
+Clone or download this repository.
+
+Make sure keras_model.h5, labels.txt, and your test image (test_image.png) are in the same folder.
+
+Run the prediction script.
+
 ## 📊 Sample Output
 When feeding a circular shape image, the expected output structure is:
-```text
 Class: circular
 Confidence Score: 0.9967167
